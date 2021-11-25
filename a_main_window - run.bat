@@ -1,0 +1,1 @@
+"E:\Program Files (x86)\Python\Python38-32\python.exe" "a_main_window.py"
